@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Fátima Patricia Flores
 Soy profesora de desarrollo de software apasionada por la enseñanza y la tecnología.<br>Me dedico a formar estudiantes en habilidades de programación y resolución de problemas utilizando herramientas modernas.<br>Me interesa el desarrollo web, las metodologías educativas innovadoras y el uso de la tecnología en el aula.
 
 
